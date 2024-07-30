@@ -18,3 +18,13 @@ else:
     print('your age is', age)
     print('teenager')
 ```
+當然上面的判斷是很粗略的，完全可以用elif做更細緻的判斷：
+```python
+age = 3
+if age >= 18:
+    print('adult')
+elif age >= 6:
+    print('teenager')
+else:
+    print('kid')
+```
