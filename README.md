@@ -1,2 +1,4 @@
-# Angular專案學習
-Angular學習筆記
+# Python學習旅程
+陳大胖之PYTHON旅程，在不遠的將來程式設計環境將面臨AI衝擊，這是邁向AI應用的一小步。
+
+
