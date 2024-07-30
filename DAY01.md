@@ -2,10 +2,19 @@
 ==========================================
 由於學習其他同仁AI專案需要有一些Python語言知識，故開啟系列筆記學習過程。
 
-
 ```python
 age = 20
 if age >= 18:
     print('your age is', age)
     print('adult')
+```
+也可以給if添加一個else語句，意思是，如果if判斷是False，不要執行if的內容，去把else執行了：
+```python
+age = 3
+if age >= 18:
+    print('your age is', age)
+    print('adult')
+else:
+    print('your age is', age)
+    print('teenager')
 ```
