@@ -28,3 +28,16 @@ elif age >= 6:
 else:
     print('kid')
 ```
+python沒有switch為此後來有新增match，下面是使用match範例。
+```python
+score = 'B'
+match score:
+    case 'A':
+        print('score is A.')
+    case 'B':
+        print('score is B.')
+    case 'C':
+        print('score is C.')
+    case _: # _表示匹配到其他任何情况
+        print('score is ???.')
+```
