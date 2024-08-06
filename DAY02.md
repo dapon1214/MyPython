@@ -31,3 +31,5 @@ def add(x, y, z):
 a, b = add(1, 2, 3)
 print('a:' + str(a) + ' ' + 'b:' + str(b)) #很醜之後再找format相關函數及寫法
 ```
+
+## 先參考https://medium.com/tsungs-blog/python-%E5%AD%97%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96-fdfe4ac41a2d
