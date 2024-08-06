@@ -19,3 +19,13 @@ print(s) # {1, 2, 3}
 for x in s:
     print('Set裡面每個元素：' + str(x))
 ```
+
+## 函數返回多個值(與Java、C#不同)
+```python
+def add(x, y, z):
+    xz = x + z
+    yz = y + z
+    return xz, yz
+
+a, b = add(1, 2, 3)
+```
