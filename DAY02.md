@@ -27,5 +27,7 @@ def add(x, y, z):
     yz = y + z
     return xz, yz
 
+
 a, b = add(1, 2, 3)
+print('a:' + str(a) + ' ' + 'b:' + str(b)) #很醜之後再找format相關函數及寫法
 ```
