@@ -33,4 +33,4 @@ print('a:' + str(a) + ' ' + 'b:' + str(b)) #很醜之後再找format相關函數
 print(f'a:{a} b:{b}') # 這方法比較簡潔，也可以帶入變數
 ```
 
-
+測試使用branch並從vscode上傳到github
