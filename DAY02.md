@@ -34,3 +34,4 @@ print(f'a:{a} b:{b}') # 這方法比較簡潔，也可以帶入變數
 ```
 
 測試使用branch並從vscode上傳到github
+測試第二次上傳github
