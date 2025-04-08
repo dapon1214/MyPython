@@ -33,5 +33,4 @@ print('a:' + str(a) + ' ' + 'b:' + str(b)) #很醜之後再找format相關函數
 print(f'a:{a} b:{b}') # 這方法比較簡潔，也可以帶入變數
 ```
 
-
-現在測試branch3上傳Github
+# 測試將文檔上傳至github
